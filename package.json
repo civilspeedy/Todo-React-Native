@@ -15,7 +15,7 @@
         "@react-navigation/material-top-tabs": "^6.6.5",
         "@react-navigation/native": "^6.1.9",
         "@react-navigation/native-stack": "^6.9.17",
-        "expo": "~50.0.0",
+        "expo": "~54.0.0",
         "expo-haptics": "~12.4.0",
         "expo-sqlite": "~11.3.3",
         "expo-status-bar": "~1.6.0",
